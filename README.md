@@ -2,8 +2,7 @@
 Creating Web Application.
 
 The first step will determine the business model and data model for the web application using Diagram.net.
-https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Cahaya%20Gading%20Diagram.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Friolentius%2FWebApplication8%2Fmaster%2FCahaya%2520Gading%2520Diagram.drawio
-
+![Cahaya Gading Diagram drawio](https://user-images.githubusercontent.com/39472350/211245267-0e6ccdd8-1eab-4829-b5d5-0b9d70a81fd3.png)
 
 And then using python and jupyter notebook, creating PostgreSQL databases, creating tables and column and insert data from CSV into the database using pandas.
 
